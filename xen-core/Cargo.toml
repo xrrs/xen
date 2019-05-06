@@ -1,0 +1,9 @@
+[package]
+name = "xen"
+description = "[WIP] xen is a multithreaded, cross-platform, xR (VR/AR/MR) Engine for Rust."
+repository = "https://github.com/xrrs/xen"
+version = "0.0.1"
+authors = ["Avery Wagar <ajmw.subs@gmail.com>"]
+edition = "2018"
+
+[dependencies]

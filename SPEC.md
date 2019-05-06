@@ -5,10 +5,6 @@ author: XRRS, Avery Wagar
 
 # Overview
 
+Xen is an extermly fast multi-threaded engine for cross-platform xR development. Built with ease-of-use in mind.
+
 # Technical Design
-
-# API Design Choices
-
-- `xen::engine`: Module contains engine code
-- `xen::entity`: Module contains code for entities
-- `xen::component`: Module contains code for components
