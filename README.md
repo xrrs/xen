@@ -10,6 +10,6 @@
 - `xen-core`: Core libraries and Components of `xen`
 - `xen-pbr`: Multi-threaded Stereoscopic VR Renderer built with `GFX-HAL` and `Vulkan`
 - `xen-loop`: Message-bus based game loop for `xen`
-- `xen-input`: Input code for `xen`, event based with support for xR controllers, HODS, Keyboards, and Mice.
+- `xen-input`: Input code for `xen`, event based with support for xR controllers, HMDS, Keyboards, and Mice.
 - `spatial`: Spatial and 3D audio for `xen`
 - `openxr`: Rust bindings to the OpenXR SDK (Coming Soon!)
