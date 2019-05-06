@@ -9,3 +9,4 @@
 - `xen-loop`: Message-bus based gameloop for `xen`
 - `xen-input`: Input code for `xen`, event based with support for xR controllers, HODS, Keyboards, and Mice.
 - `spatial`: Spatial and 3D audio for `xen`
+- `openxr`: Rust bindings to the OpenXR SDK (Coming Soon!)
